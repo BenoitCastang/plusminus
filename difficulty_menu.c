@@ -6,7 +6,7 @@
 int difficulty_menu()
 {
     int difficulty = 0; // Determines the number of players. 1 is solo mode. 2 is multiplayer mode.
-    do 
+    do
     {
         printf("\n\e[0;37mWhich difficulty do you want to choose ?\n");
         printf("1. easy\n");

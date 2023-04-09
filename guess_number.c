@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "guess_number.h"   
+#include "guess_number.h"
 
 // Loop asking to guess the number.
 void guess_number(int MIN, int max, int number)

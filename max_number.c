@@ -5,7 +5,7 @@
 // Determining the max value according to the difficulty
 int max_number(int difficulty)
 {
-    int max; // Represents the maximum to guess. 
+    int max; // Represents the maximum to guess.
     switch (difficulty)
     {
     case 1:
